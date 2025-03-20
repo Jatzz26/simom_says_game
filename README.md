@@ -1,4 +1,4 @@
-# simom_says_game
+# simon_says_game
 How to Play:
 Game Starts: The game randomly flashes one of the four colored boxes.
 Player's Turn: The player must click the same color box in the correct sequence.
